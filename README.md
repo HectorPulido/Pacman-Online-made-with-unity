@@ -10,9 +10,9 @@ And his Twitch Channel<br/>
 https://www.twitch.tv/hector_pulido_<br/>
 
 ## HOW TO USE
-Open it on unity 2017.3 or greater (sorry about that >-< ), and play around with the project.
+1. Create a new project 
+2. Copy the Assets folder into your project
+3. Modify it to your own
 
-## Patreon
-Please consider Support on Patreon<br/>
-![Please consider support on patreon](/Images/Patreon.png)<br/>
-https://www.patreon.com/HectorPulido
+## Licence
+This Repo contains mirror networking (https://mirror-networking.com/), everything else is Mit licenced
